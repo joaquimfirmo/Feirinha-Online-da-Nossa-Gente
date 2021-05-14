@@ -1,0 +1,53 @@
+.font-texts {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800;
+}
+
+
+main {
+    margin-top: 55px;
+}
+
+#container-gerar-cupom {
+    
+    background-color:white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-bottom: 22px;
+}
+
+h1 {
+
+    margin-top: 12px;
+
+}
+
+#btn-limpar {
+    margin-left: 22px;
+}
+
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  display: none;
+}
+
+.datepicker-date-display {
+    background-color: #00e676 !important;
+}
+
+
+
+@media only screen and (max-width: 670px) {
+    #logo{
+       font-size: 1.5rem;
+    }
+
+    #btn-editar {
+        margin-bottom: 18px;
+        margin-left: -2px;
+    }
+
+    #btn-excluir {
+        margin-bottom: 18px;
+    }
+    
+ }

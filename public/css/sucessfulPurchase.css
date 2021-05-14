@@ -1,0 +1,42 @@
+.font-texts {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800;
+}
+
+
+.menu-item {
+   
+    font-size: 1.4rem;
+    color:white;
+}
+
+#logo-in-validadeCoupon {
+  
+    margin-left: 12px;
+
+}
+
+
+
+main {
+    margin-top: 26px;
+}
+
+h3 {
+    margin-left: 10px;
+}
+
+#container-validate {
+    padding-top: 32px; 
+    background-color:white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+   
+}
+
+#imgValid {
+    display: none;
+}
+
+#denied {
+    display: none;
+}
