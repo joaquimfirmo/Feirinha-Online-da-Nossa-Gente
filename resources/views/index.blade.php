@@ -65,12 +65,12 @@
             <li>
                 <img src="{{asset('img/frutas.jpg')}}"> <!-- random image -->
                 <div class="caption center-align">
-                    <h3 class="font-texts ">Aqui é da região!</h3>
+                    <h3 class="font-texts ">Feirinha Online da Nossa Gente.</h3>
                     <h5 class="light white-text  font-texts">Os Melhores produtos da cidade.</h5>
                 </div>
             </li>
             <li>
-                <img src="{{asset('img/padaria.jpg')}}"> <!-- random image -->
+                <img  src="{{asset('img/padaria.jpg')}}"> <!-- random image -->
                 <div class="caption left-align">
                     <h3 class="font-texts ">Preço baixo perto de você</h3>
                     <h5 class="light white-text font-texts">Super ofertas todo dia.</h5>

@@ -60,7 +60,7 @@
     <div id="container-user" class="container">
       <div id="row-main-user-name" class="row green accent-4">
         <div class="col s12 m10">
-          <h1 class="header text-user-name">Seus Produtos</h1>
+          <h2 class="header text-user-name">Seus Produtos</h2>
         </div>
       </div>
 
